@@ -1,0 +1,47 @@
+Weekly Assignment -- 20 M
+
+Week 07
+
+1. Create a spring boot application to maintain Employee details like employee id, employee name & salary in Empoyee.java an entity class or data JPA with Employee information.   
+
+2. Differentiate spring and spring boot.
+
+3. Explain with an example how to convert monolithic application to microservice architecture.
+
+4. Describe different spring annotations along with their usage and syntax.
+
+
+Week 08
+
+1. Explain the rules to follow for an API to be RESTful.
+
+2. Discuss how REST API is best over SOAP API. Illustrate.
+
+3. Create Student.java – an entity class with student information. Design a Rest Controller with GET, PUT, POST and DELETE Restful APIs.
+
+4. Create a REST controller class to perform CRUD operations on product and corresponding request and response DTOs. The product class should contain three data members viz., product name , product category
+   and product price. Use proper spring boot annotations.
+
+
+Week 09
+
+1. Demonstrate with a simple code to secure REST APIs with Spring Security.
+
+2. Compare the Databases MySQL and Mongo DB.
+
+3. Perform the following operations using Mongo DB.
+     a. Create an Employee Database.
+     b. Insert four records in to the above database.
+     c. Sort the employee by name.
+     d. Search the employee by ID.
+
+4. Explain with example how to write JUnit Testcases for CRUD Operations.
+
+
+Week 10
+
+1. Illustrate ACID Transaction in Mongo DB.
+
+2. Demonstrate CRUD operations on Mongo DB.
+
+
